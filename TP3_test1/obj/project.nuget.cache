@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTvvf7SItRBmoZ4tcAMUG7qvNeK8xHL51ulMYJzzmmeUSg/BrdTSlPvkOANYZE31enBuLsI68EbaV0566Ff8lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahcene Benali\\Desktop\\TP3_test1\\TP3_test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahcene Benali\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\Ahcene Benali\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ahcene Benali\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
